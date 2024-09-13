@@ -27,7 +27,8 @@ public class typeCasting {
 
      String p = "10";
      String q = "20";
-     String r = p + q;  // r will be 1020 (a String)   
+     String r = p + q;  // r will be 1020 (a String) 
+     System.out.println(r);  
 
 
                         //    \n 	=  New Line	
