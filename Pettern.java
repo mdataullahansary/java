@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 /**
- * Pettern
- */
+ Pettern
+ **/
 public class Pettern {
 
     public static void main(String[] args) {
